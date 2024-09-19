@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Success Empty data  renders Layout unchanged to match snapshot 1`] = `
+<div>
+  <div
+    class="sc-blHHSb jzxxPQ"
+  >
+    <div>
+      <ul>
+        <div
+          class="sc-egkSDF AVQsL"
+        />
+        <div
+          class="sc-egkSDF AVQsL"
+        />
+        <div
+          class="sc-egkSDF AVQsL"
+        />
+        <div
+          class="sc-egkSDF AVQsL"
+        />
+        <div
+          class="sc-egkSDF AVQsL"
+        />
+        <div
+          class="sc-egkSDF AVQsL"
+        />
+        <div
+          class="sc-egkSDF AVQsL"
+        />
+        <div
+          class="sc-egkSDF AVQsL"
+        />
+        <div
+          class="sc-egkSDF AVQsL"
+        />
+        <div
+          class="sc-egkSDF AVQsL"
+        />
+      </ul>
+    </div>
+  </div>
+</div>
+`;

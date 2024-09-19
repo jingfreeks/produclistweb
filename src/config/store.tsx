@@ -3,7 +3,6 @@ import {apiSlice} from './apiSlice';
 
 const rootReducer = combineReducers({
   [apiSlice.reducerPath]: apiSlice.reducer,
-  auth:{}
 });
 export const setupStore= (preloadedState?: Partial<RootState>) => {
   return configureStore({

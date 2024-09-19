@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Details  renders Layout unchanged to match snapshot 1`] = `
+<div>
+  <div
+    class="sc-blHHSb sc-gtLWhw PDObS irshlR"
+  >
+    <h2>
+      🌀 Loading...
+    </h2>
+  </div>
+</div>
+`;

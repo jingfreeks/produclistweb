@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Details  renders Layout unchanged to match snapshot 1`] = `
+<div>
+  <div
+    class="sc-blHHSb PDObS"
+  >
+    <div
+      class="sc-dntaoT ffHgNl"
+    >
+      <img
+        alt="new"
+        class="sc-egkSDF fzNayR"
+      />
+      <h1
+        class="sc-fAUdSK ihNsWr"
+      />
+    </div>
+    <div
+      class="sc-dntaoT ffHgNl"
+    >
+      <p
+        class="sc-ivxoEo bBsAbD"
+      />
+      <p
+        class="sc-ivxoEo bBsAbD"
+      >
+        Category:
+      </p>
+      <p
+        class="sc-ivxoEo bBsAbD"
+      >
+        Price:
+      </p>
+    </div>
+  </div>
+</div>
+`;

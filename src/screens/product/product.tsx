@@ -14,7 +14,7 @@ const Product = () => {
     isError: boolean;
     error: any;
   }>("getProduct");
-
+  console.log('products',product)
   const renderProduct = useCallback(() => {
     let productItem = product;
     return product?.ids.map((item: string) => {
