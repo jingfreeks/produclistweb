@@ -2,7 +2,7 @@
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/query/react";
 
 const baseQuery = fetchBaseQuery({
-  baseUrl: "http://localhost:3500/",
+  baseUrl: "https://hosting-api-xhd4.onrender.com/",
   credentials: "include",
   prepareHeaders: (headers: any) => {
     return headers;
